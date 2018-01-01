@@ -1,0 +1,18 @@
+[
+    {
+        "category": "modules",
+        "order": 2
+    },
+    {
+        "category": "readme",
+        "order": 1
+    },
+    {
+        "category": "jsExample",
+        "order": 3
+    },
+    {
+        "category": "Base",
+        "order": 0
+    }
+]

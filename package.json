@@ -1,0 +1,21 @@
+{
+  "name": "project-starter-website",
+  "version": "1.0.0",
+  "description": "Simple starter for creating small websites and/or landing pages",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "starter",
+    "website",
+    "gulp",
+    "browserify",
+    "sass"
+  ],
+  "author": "Milagros Pérez @harleshinn",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
