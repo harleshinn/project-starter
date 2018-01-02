@@ -17,5 +17,13 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harleshinn/project-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harleshinn/project-starter/issues"
+  },
+  "homepage": "https://github.com/harleshinn/project-starter#readme"
 }
