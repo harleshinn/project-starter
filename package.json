@@ -1,0 +1,27 @@
+{
+  "name": "project-starter",
+  "version": "1.0.0",
+  "description": "Simple starter for creating small websites and/or landing pages w/GulpJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harleshinn/project-starter.git"
+  },
+  "keywords": [
+    "starter",
+    "blank",
+    "template"
+  ],
+  "author": "Milagros Pérez - @harleshinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harleshinn/project-starter/issues"
+  },
+  "homepage": "https://github.com/harleshinn/project-starter#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
