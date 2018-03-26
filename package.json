@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/harleshinn/project-starter#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+     "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-sass": "^3.2.1",
+    "gulp-sourcemaps": "^2.6.4"
   }
 }
