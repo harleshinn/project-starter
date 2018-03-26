@@ -1,4 +1,4 @@
-- Compilar Sass
+- ~~Compilar Sass~~
 - Testear CSS (sass Lint)
 - Testear JS (sonar gulp)
 - Minificar CSS & JS
@@ -6,7 +6,7 @@
 - Comprimir imágenes (imagemin: jpg, png, svg)
 - Browserify
 - Manejar errores con plumber o similar
-- Agregar sourcemaps
+- ~~Agregar sourcemaps~~
 - Autoprefixer
 - browsersync y livereload
 - Gulp Watch
